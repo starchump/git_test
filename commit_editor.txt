@@ -1,0 +1,1 @@
+I set up gvim as the commit message editor, so I made this file to have something new to commit.
